@@ -1,6 +1,7 @@
 # Resume Tailor AI
 
 An AI-powered local app to **match your resume with any job description**, provide improvement suggestions, and generate tailored cover letters — all running locally with no cloud APIs.
+The recruitment process in the current day is being subjected to immense pressure since companies are getting a surge of resumes for each available job. Listing and comparing all the resumes manually consume a lot of time and may result in unfair or prejudice results. For this purpose, the Smart Resume Filtering andTailoring System has been created. It is an artificial intelligence-based system beneficial for recruiters and job seekers alike. Job applicants can input their resume and job advertisement to obtain a match score, missing skills list, and suggestions on resume improvement. The system also provides the ability for a recruiter to input multiple resumes for a single job posting and automatically rank the applicants based on the job requirement. The system utilizes simple Natural Language Processing (NLP) techniques, text mining, and rules-based verification to determine match scores. It also offers a safe login and data storage system. The project saves time, enhances the accuracy of recruitment, and assists applicants in knowing how to enhance their resumes.
 
 ---
 
